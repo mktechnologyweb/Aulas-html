@@ -1,0 +1,32 @@
+<html lang="pt-br">
+    <head> 
+        <title>Exemplo do atributo href</title> 
+    </head> 
+    <body> 
+        <h1>Exemplo do atributo href</h1> 
+        <p> 
+            <a href="https://www.youtube.com/@bymauriciodev/featured">
+               Siga nosso canal </a> 
+         <hr>           
+      <a href="https://www.youtube.com/@bymauriciodev/featured" 
+      target="_blank">Siga nosso canal</a>
+       
+        </p> 
+
+        <img src="" alt="aulas html">
+
+        <p style="color:red;">Este é um 
+        parágrafo vermelho.</p>
+
+        <p title="Eu sou uma dica de ferramenta">
+        Isso é um parágrafo.</p>
+        <p title=About@bymauriciodev>Siga</p>
+
+        <p title='Olá "bymauriciodev" youtube'>Passe o mouse</p>
+
+                    <!--Ou vice-versa:-->
+                    
+        <p title="Olá 'bymauriciodev' youtube">Passe o mouse</p>
+
+    </body> 
+</html>
